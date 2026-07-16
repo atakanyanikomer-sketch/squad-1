@@ -1,0 +1,25 @@
+SQUAD 1 DASHBOARD - GITHUB'A YÜKLEME
+
+1) github.com adresini aç.
+2) Kendi hesabına giriş yap.
+3) Sağ üstteki + işaretine bas.
+4) New repository seç.
+5) Repository name alanına: squad-1
+6) Public seçili kalsın.
+7) Create repository butonuna bas.
+8) Açılan ekranda "uploading an existing file" yazısına bas.
+9) Bu ZIP'i bilgisayarında çıkart.
+10) Çıkan klasörün İÇİNDEKİ dosyaları GitHub ekranına sürükle.
+    ÖNEMLİ: index.html doğrudan ana ekranda olmalı; başka klasörün içinde kalmamalı.
+11) Alttaki Commit changes butonuna bas.
+12) Üstten Settings'e gir.
+13) Soldan Pages'e gir.
+14) Source: Deploy from a branch
+15) Branch: main
+16) Folder: /(root)
+17) Save'e bas.
+18) 1-5 dakika bekle.
+19) Adresin:
+    https://KULLANICI-ADIN.github.io/squad-1/
+
+API BAĞLANTISI DOSYAYA EKLENDİ. TEKRAR YAZMANA GEREK YOK.
